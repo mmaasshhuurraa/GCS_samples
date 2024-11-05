@@ -1,0 +1,17 @@
+{
+ "metadata": {
+     "version": "1"
+ },
+ "templates": [
+     {
+         "path": "my-first-sample",
+         "name": "My first cool sample",
+         "description": "A simple app that does something cool."
+     },
+     {
+         "path": "my-second-sample",
+         "name": "My second awesome sample",
+         "description": "A simple app that does something awesome."
+     }
+ ]
+}

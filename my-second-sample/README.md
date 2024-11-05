@@ -1,0 +1,1 @@
+some text for 2-st app
